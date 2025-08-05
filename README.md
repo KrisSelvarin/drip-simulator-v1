@@ -106,7 +106,7 @@ This project was created for **learning and mastery**, especially to reinforce c
 
 ## 🧑‍💻 License
 
-MIT License — feel free to use, fork, and modify.
+NOPE - Author still learning (pure noob)
 
 ---
 
